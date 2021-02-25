@@ -1,0 +1,184 @@
+body {
+  font-family: "Montserrat";
+}
+.title{
+  padding-right: 3rem;
+  padding-left:3rem;
+  margin: 3%;
+  position: relative;
+}
+.pos1{
+  position: relative;
+}
+.img1{
+  position: absolute;
+  top: 5%;
+  z-index: 1;
+}
+.img2{
+  position: relative;
+}
+.pos{
+  position: absolute;
+  top: 30%;
+}
+.posi{
+  position: absolute;
+  top: 40%;
+}
+.btn-class{
+  position: absolute;
+  top: 60%;
+  right: 85%
+}
+.img3{
+  position: absolute;
+  left:25%;
+  bottom: 0.1%;
+}
+
+.btn-class1{
+  position: relative;
+  top: 2rem;
+}
+.par1{
+  position: relative;
+  top: 1rem;
+  right:2rem;
+}
+
+.img4{
+  position: relative;
+  top:2.5rem;
+}
+.head1{
+  position: relative;
+  left:2rem;
+}
+.poster{
+  padding-top: 2rem;
+}
+.post{
+padding: 2rem;
+}
+.par2{
+  position: relative;
+  left: 90%;
+}
+
+
+.par3{
+  line-height: 2rem;
+}
+
+
+.style{
+  border-style: solid;
+}
+.btn-class2{
+  position: relative;
+  left:60%;
+  bottom: 1rem;
+}
+.par3{
+  position: relative;
+  top: 2.5rem;
+  left: 2rem;
+}
+
+
+.posi1{
+  position: relative;
+}
+
+.par4{
+  position: relative;
+  bottom:3rem;
+  left:10rem;
+  z-index: 1;
+}
+
+
+.img5{
+  position: relative;
+  left: 12.5rem;
+}
+
+
+.posi2{
+  position: relative;
+}
+.pos2{
+  position: relative;
+  top: 7rem;
+  left: 4rem;
+}
+
+
+.posi3{
+  position: relative;
+  top: 2rem;
+}
+.back-col{
+  background-color: cyan;
+}
+.btn-class2{
+  position: relative;
+  bottom: 3rem;
+  left: 80%
+}
+
+
+.back-col2{
+  background-color: #154360;
+}
+.par5{
+  position: relative;
+  top: 5rem;
+  left: 5rem;
+}
+.par6{
+  position: relative;
+  left: 15rem;
+  top:1rem;
+  padding-bottom: 2rem;
+}
+.font{
+  color: darkblue;
+  font-size: 2rem;
+}
+
+.par7{
+  text-align: center;
+  font-size: 2rem;
+  position: relative;
+  top: 1rem;
+}
+.testo{
+  position: relative;
+  bottom: 10rem;
+  z-index: -1;
+}
+.testo1{
+  position:relative;
+  bottom: 18rem;
+  z-index: -1;
+}
+.testo2{
+  position:relative;
+  bottom: 14rem;
+  left: 10rem;
+  z-index: -1;
+}
+.testo3{
+  position:relative;
+  bottom: 14rem;
+  left: 10rem;
+  z-index: -1;
+}
+.testo4{
+  position:relative;
+  top: 28rem;
+  left: 1rem;
+  z-index: 1;
+}
